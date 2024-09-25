@@ -12,7 +12,7 @@ public class Controller {
     public Resp index(@PathVariable(name="id") int id) {
         Resp ret = new Resp();
         ret.id = id;
-        ret.name = String.format("%d name", id);
+        ret.name = id + " name";
         return ret;
     }
 
