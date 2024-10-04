@@ -15,5 +15,4 @@ public class Controller {
         ret.name = id + " name";
         return ret;
     }
-
 }

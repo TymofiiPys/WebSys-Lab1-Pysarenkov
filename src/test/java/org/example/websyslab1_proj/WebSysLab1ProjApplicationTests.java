@@ -9,5 +9,4 @@ class WebSysLab1ProjApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
