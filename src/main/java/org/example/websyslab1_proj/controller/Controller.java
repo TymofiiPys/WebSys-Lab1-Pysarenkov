@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-    @GetMapping("/products/{id}")
+//    @GetMapping("/products/{id}")
     public Resp index(@PathVariable(name="id") int id) {
         Resp ret = new Resp();
         ret.id = id;
