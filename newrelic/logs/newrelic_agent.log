@@ -1,0 +1,162 @@
+2024-10-11T21:30:05,181+0300 [9268 1] com.newrelic INFO: Writing to New Relic log file: /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/logs/newrelic_agent.log
+2024-10-11T21:30:05,181+0300 [9268 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.2
+2024-10-11T21:30:05,181+0300 [9268 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.2+13-LTS-58
+2024-10-11T21:30:05,181+0300 [9268 1] com.newrelic INFO: OS Linux version 5.15.133.1-microsoft-standard-WSL2 arch amd64
+2024-10-11T21:30:05,181+0300 [9268 1] com.newrelic INFO: Agent Host: KOMORA-MAIN IP: 127.0.1.1
+2024-10-11T21:30:05,182+0300 [9268 1] com.newrelic INFO: New Relic Agent v8.15.0 is initializing...
+2024-10-11T21:30:05,605+0300 [9268 34] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-10-11T21:30:06,523+0300 [9268 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-10-11T21:30:06,742+0300 [9268 1] com.newrelic INFO: Setting audit_mode to false
+2024-10-11T21:30:06,856+0300 [9268 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/./newrelic.yml
+2024-10-11T21:30:06,860+0300 [9268 1] com.newrelic INFO: New Relic Agent v8.15.0 has started
+2024-10-11T21:30:06,860+0300 [9268 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@deb6432
+2024-10-11T21:30:06,860+0300 [9268 1] com.newrelic INFO: Premain startup complete in 2,222ms
+2024-10-11T21:30:06,861+0300 [9268 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-10-11T21:30:09,436+0300 [9268 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.28
+2024-10-11T21:30:10,183+0300 [9268 26] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-10-11T21:30:10,186+0300 [9268 26] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: Writing to New Relic log file: /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/logs/newrelic_agent.log
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.2
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.2+13-LTS-58
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: OS Linux version 5.15.133.1-microsoft-standard-WSL2 arch amd64
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: Agent Host: KOMORA-MAIN IP: 127.0.1.1
+2024-10-11T21:38:38,434+0300 [11678 1] com.newrelic INFO: New Relic Agent v8.15.0 is initializing...
+2024-10-11T21:38:38,828+0300 [11678 34] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-10-11T21:38:39,399+0300 [11678 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-10-11T21:38:39,594+0300 [11678 1] com.newrelic INFO: Setting audit_mode to false
+2024-10-11T21:38:39,699+0300 [11678 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/./newrelic.yml
+2024-10-11T21:38:39,704+0300 [11678 1] com.newrelic INFO: New Relic Agent v8.15.0 has started
+2024-10-11T21:38:39,704+0300 [11678 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@deb6432
+2024-10-11T21:38:39,704+0300 [11678 1] com.newrelic INFO: Premain startup complete in 1,845ms
+2024-10-11T21:38:39,706+0300 [11678 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-10-11T21:38:41,933+0300 [11678 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.28
+2024-10-11T21:38:44,704+0300 [11678 56] com.newrelic INFO: Host name is KOMORA-MAIN, display host KOMORA-MAIN for application WebSys
+2024-10-11T21:38:44,705+0300 [11678 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:38:45,278+0300 [11678 56] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-10-11T21:38:45,561+0300 [11678 56] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-10-11T21:38:45,561+0300 [11678 56] com.newrelic INFO: Agent run id: BXSs8AykQWlkAEkHgRoTHSZnCXEAAAIBAAAnIQEAAC2eAgQaExsVAwAGOC4xNS4wAAtLT01PUkEtTUFJTgAGV2ViU3lz
+2024-10-11T21:38:45,561+0300 [11678 56] com.newrelic INFO: Agent 11678@KOMORA-MAIN/WebSys connected to collector.eu01.nr-data.net:443
+2024-10-11T21:38:45,561+0300 [11678 56] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4786049/applications/437459733
+2024-10-11T21:38:45,563+0300 [11678 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:38:45,563+0300 [11678 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:38:45,563+0300 [11678 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:38:45,564+0300 [11678 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:38:45,564+0300 [11678 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:38:45,564+0300 [11678 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:38:45,641+0300 [11678 56] com.newrelic INFO: Real user monitoring is enabled for application WebSys. Auto instrumentation is enabled.
+2024-10-11T21:38:45,642+0300 [11678 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:40:03,261+0300 [11678 26] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-10-11T21:40:03,272+0300 [11678 60] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@7564af0b tried to finish but ServiceManager not started
+2024-10-11T21:40:03,399+0300 [11678 26] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: Writing to New Relic log file: /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/logs/newrelic_agent.log
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.2
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.2+13-LTS-58
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: OS Linux version 5.15.133.1-microsoft-standard-WSL2 arch amd64
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: Agent Host: KOMORA-MAIN IP: 127.0.1.1
+2024-10-11T21:40:05,626+0300 [12121 1] com.newrelic INFO: New Relic Agent v8.15.0 is initializing...
+2024-10-11T21:40:06,081+0300 [12121 34] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-10-11T21:40:06,835+0300 [12121 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-10-11T21:40:07,123+0300 [12121 1] com.newrelic INFO: Setting audit_mode to false
+2024-10-11T21:40:07,271+0300 [12121 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/./newrelic.yml
+2024-10-11T21:40:07,276+0300 [12121 1] com.newrelic INFO: New Relic Agent v8.15.0 has started
+2024-10-11T21:40:07,276+0300 [12121 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@deb6432
+2024-10-11T21:40:07,277+0300 [12121 1] com.newrelic INFO: Premain startup complete in 2,221ms
+2024-10-11T21:40:07,279+0300 [12121 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-10-11T21:40:09,674+0300 [12121 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.28
+2024-10-11T21:40:12,276+0300 [12121 56] com.newrelic INFO: Host name is KOMORA-MAIN, display host KOMORA-MAIN for application WebSys
+2024-10-11T21:40:12,277+0300 [12121 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:40:12,673+0300 [12121 56] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-10-11T21:40:12,913+0300 [12121 56] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-10-11T21:40:12,914+0300 [12121 56] com.newrelic INFO: Agent run id: BS-gLP3iuUL-AEkHgRoTHSZnCXF4AAIBAAAnIQEAAC9ZAgQaExsVAwAGOC4xNS4wAAtLT01PUkEtTUFJTgAGV2ViU3lz
+2024-10-11T21:40:12,914+0300 [12121 56] com.newrelic INFO: Agent 12121@KOMORA-MAIN/WebSys connected to collector.eu01.nr-data.net:443
+2024-10-11T21:40:12,914+0300 [12121 56] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4786049/applications/437459733
+2024-10-11T21:40:12,916+0300 [12121 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:40:12,916+0300 [12121 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:40:12,916+0300 [12121 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:40:12,918+0300 [12121 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:40:12,918+0300 [12121 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:40:12,918+0300 [12121 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:40:13,074+0300 [12121 56] com.newrelic INFO: Real user monitoring is enabled for application WebSys. Auto instrumentation is enabled.
+2024-10-11T21:40:13,074+0300 [12121 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:48:17,762+0300 [12121 26] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-10-11T21:48:17,774+0300 [12121 60] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@61c1297a tried to finish but ServiceManager not started
+2024-10-11T21:48:17,842+0300 [12121 26] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-10-11T21:48:22,565+0300 [14309 1] com.newrelic INFO: Writing to New Relic log file: /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/logs/newrelic_agent.log
+2024-10-11T21:48:22,565+0300 [14309 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.2
+2024-10-11T21:48:22,566+0300 [14309 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.2+13-LTS-58
+2024-10-11T21:48:22,566+0300 [14309 1] com.newrelic INFO: OS Linux version 5.15.133.1-microsoft-standard-WSL2 arch amd64
+2024-10-11T21:48:22,566+0300 [14309 1] com.newrelic INFO: Agent Host: KOMORA-MAIN IP: 127.0.1.1
+2024-10-11T21:48:22,566+0300 [14309 1] com.newrelic INFO: New Relic Agent v8.15.0 is initializing...
+2024-10-11T21:48:23,028+0300 [14309 34] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-10-11T21:48:23,709+0300 [14309 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-10-11T21:48:23,885+0300 [14309 1] com.newrelic INFO: Setting audit_mode to false
+2024-10-11T21:48:24,008+0300 [14309 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/./newrelic.yml
+2024-10-11T21:48:24,012+0300 [14309 1] com.newrelic INFO: New Relic Agent v8.15.0 has started
+2024-10-11T21:48:24,013+0300 [14309 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@deb6432
+2024-10-11T21:48:24,013+0300 [14309 1] com.newrelic INFO: Premain startup complete in 2,060ms
+2024-10-11T21:48:24,015+0300 [14309 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-10-11T21:48:28,900+0300 [14309 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.28
+2024-10-11T21:48:31,172+0300 [14309 56] com.newrelic INFO: Host name is KOMORA-MAIN, display host KOMORA-MAIN for application WebSys
+2024-10-11T21:48:31,172+0300 [14309 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:48:31,818+0300 [14309 56] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-10-11T21:48:32,019+0300 [14309 56] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-10-11T21:48:32,019+0300 [14309 56] com.newrelic INFO: Agent run id: BYWA9hnSy3BrAEkHgRoTHSZnCXNYAAIBAAAnIQEAADflAgQaExsVAwAGOC4xNS4wAAtLT01PUkEtTUFJTgAGV2ViU3lz
+2024-10-11T21:48:32,019+0300 [14309 56] com.newrelic INFO: Agent 14309@KOMORA-MAIN/WebSys connected to collector.eu01.nr-data.net:443
+2024-10-11T21:48:32,020+0300 [14309 56] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4786049/applications/437459733
+2024-10-11T21:48:32,021+0300 [14309 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:48:32,021+0300 [14309 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:48:32,021+0300 [14309 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:48:32,023+0300 [14309 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:48:32,023+0300 [14309 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:48:32,023+0300 [14309 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:48:32,204+0300 [14309 56] com.newrelic INFO: Real user monitoring is enabled for application WebSys. Auto instrumentation is enabled.
+2024-10-11T21:48:32,205+0300 [14309 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:52:17,649+0300 [14309 79] com.newrelic INFO: Re-reading New Relic configuration file
+2024-10-11T21:52:17,653+0300 [14309 79] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:17,654+0300 [14309 79] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:17,654+0300 [14309 79] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:17,656+0300 [14309 79] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:17,656+0300 [14309 79] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:17,656+0300 [14309 79] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:17,658+0300 [14309 79] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:17,658+0300 [14309 79] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:17,658+0300 [14309 79] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:17,659+0300 [14309 79] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:17,659+0300 [14309 79] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:17,659+0300 [14309 79] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:27,925+0300 [14309 26] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-10-11T21:52:27,936+0300 [14309 60] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@63aaea87 tried to finish but ServiceManager not started
+2024-10-11T21:52:28,071+0300 [14309 26] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: Writing to New Relic log file: /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/logs/newrelic_agent.log
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.2
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.2+13-LTS-58
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: OS Linux version 5.15.133.1-microsoft-standard-WSL2 arch amd64
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: Agent Host: KOMORA-MAIN IP: 127.0.1.1
+2024-10-11T21:52:52,190+0300 [15673 1] com.newrelic INFO: New Relic Agent v8.15.0 is initializing...
+2024-10-11T21:52:52,668+0300 [15673 34] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-10-11T21:52:53,490+0300 [15673 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-10-11T21:52:53,703+0300 [15673 1] com.newrelic INFO: Setting audit_mode to false
+2024-10-11T21:52:53,801+0300 [15673 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/tymofii/UnivProjects/WebSysLab1_Proj/newrelic/./newrelic.yml
+2024-10-11T21:52:53,805+0300 [15673 1] com.newrelic INFO: New Relic Agent v8.15.0 has started
+2024-10-11T21:52:53,805+0300 [15673 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@deb6432
+2024-10-11T21:52:53,805+0300 [15673 1] com.newrelic INFO: Premain startup complete in 2,217ms
+2024-10-11T21:52:53,807+0300 [15673 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-10-11T21:52:56,109+0300 [15673 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.28
+2024-10-11T21:52:58,805+0300 [15673 56] com.newrelic INFO: Host name is KOMORA-MAIN, display host KOMORA-MAIN for application WebSys
+2024-10-11T21:52:58,806+0300 [15673 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T21:52:59,195+0300 [15673 56] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-10-11T21:52:59,357+0300 [15673 56] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-10-11T21:52:59,357+0300 [15673 56] com.newrelic INFO: Agent run id: BWWTWLX0j-oDAEkHgRoTHSZnCXSEAAIBAAAnIQEAAD05AgQaExsVAwAGOC4xNS4wAAtLT01PUkEtTUFJTgAGV2ViU3lz
+2024-10-11T21:52:59,357+0300 [15673 56] com.newrelic INFO: Agent 15673@KOMORA-MAIN/WebSys connected to collector.eu01.nr-data.net:443
+2024-10-11T21:52:59,358+0300 [15673 56] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4786049/applications/437459733
+2024-10-11T21:52:59,359+0300 [15673 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:59,359+0300 [15673 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:59,359+0300 [15673 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:59,361+0300 [15673 56] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-10-11T21:52:59,361+0300 [15673 56] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-10-11T21:52:59,361+0300 [15673 56] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-10-11T21:52:59,596+0300 [15673 56] com.newrelic INFO: Real user monitoring is enabled for application WebSys. Auto instrumentation is enabled.
+2024-10-11T21:52:59,597+0300 [15673 56] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-10-11T22:40:57,905+0300 [15673 26] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-10-11T22:40:57,931+0300 [15673 60] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@6980efce tried to finish but ServiceManager not started
+2024-10-11T22:40:58,053+0300 [15673 26] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
