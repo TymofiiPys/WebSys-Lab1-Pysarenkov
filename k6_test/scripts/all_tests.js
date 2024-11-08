@@ -32,13 +32,13 @@ export const options = {
 
 export default function () {
     // const data = { username: 'username', password: 'password' }
-    let res = http.get('http://localhost:8080/breakingbad')
+    let res = http.get('http://host.docker.internal:8080/breakingbad')
 
     check(res, { 'successful get' : (r) => r.status === 200 })
 
     sleep(randomIntBetween(1,5))
 
-    res = http.get('http://localhost:8080/products/1')
+    res = http.get('http://host.docker.internal:8080/products/1')
 
     check(res, { 'successful get' : (r) => r.status === 200 })
 }
