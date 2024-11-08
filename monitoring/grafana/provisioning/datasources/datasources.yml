@@ -4,4 +4,9 @@ datasources:
     type: prometheus
     access: proxy
     url: http://prometheus:9090
+  - name: k6
+    type: influxdb
+    access: proxy
+    database: k6
+    url: http://localhost:8086/k6
     isDefault: true
