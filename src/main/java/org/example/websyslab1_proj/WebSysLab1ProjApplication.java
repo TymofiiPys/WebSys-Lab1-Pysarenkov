@@ -42,7 +42,13 @@ public class WebSysLab1ProjApplication {
 						.expireAfterWrite(1, TimeUnit.MINUTES)
 						.maximumSize(20)
 						.build());
-		cacheManager.setCaches(List.of(bbCache));
+		CaffeineCache bbCacheSlow = new CaffeineCache("slowerquote",
+				Caffeine.newBuilder()
+						.expireAfterWrite(2, TimeUnit.MINUTES)
+						.expireAfterAccess(1, TimeUnit.MINUTES)
+						.maximumSize(20)
+						.build());
+		cacheManager.setCaches(List.of(bbCache, bbCacheSlow));
 		return cacheManager;
 	}
 }
